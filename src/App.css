@@ -1,0 +1,6 @@
+/* Import Tailwind CSS styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Write your own custom CSS rules below */
